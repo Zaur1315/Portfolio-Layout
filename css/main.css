@@ -64,7 +64,7 @@ html, body {
 
     background-color: var(--page-bg);
     color: var(--text-color);
-    transition: all 500ms ;
+    transition: all 200ms ;
 
 }
 
